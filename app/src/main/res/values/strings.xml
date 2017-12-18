@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Marketing Quiz</string>
+    <string name="title">Marketing Quiz</string>
+    <string name="header">Test your marketing knowledge</string>
+    <string name="name">Enter your name</string>
+    <string name="question1">The stages of the product life cycle are:</string>
+    <string name="q1_a1">Introduction, Growth, Maturity, Decline</string>
+    <string name="q1_a2">Introduction, Growth, Maturity, Saturation, Decline</string>
+    <string name="q1_a3">Maturity, Saturation, Growth, Decline</string>
+    <string name="question2">What elements are in Marketing Mix ?</string>
+    <string name="q2_a1">People, Products, Price, Place</string>
+    <string name="q2_a2">Process, People, Physical Evidence, Product</string>
+    <string name="q2_a3">Product, Price, Place, Promotion</string>
+    <string name="question3">In Marketing, what is Positioning mean ?</string>
+    <string name="q3_a1">How consumers perceive the product</string>
+    <string name="q3_a2">How competitors perceive the product</string>
+    <string name="q3_a3">How products are viewed on the shelf</string>
+    <string name="question4">What the brand use for ?</string>
+    <string name="q4_a1">To help identify a product</string>
+    <string name="q4_a2">To help consumers select a product/service</string>
+    <string name="q4_a3">Spice up the image of a product</string>
+    <string name="question5">Forms of direct marketing includes: /n(Check all correct answers)</string>
+    <string name="q5_a1">direct mail marketing</string>
+    <string name="q5_a2">catalog marketing</string>
+    <string name="q5_a3">personal selling</string>
+    <string name="submit_answer">SUBMIT</string>
+    <string name="background">background</string>
+</resources>
